@@ -158,12 +158,15 @@
             }
         }
         header{
-            font-size: 18px;
+            font-size: 25px;
             text-align: center;
             padding-top: 7px;
             padding-bottom: 7px;
-            background:lightseagreen;
+            background: lightskyblue;
           }
           h1 {
-            font-size: 20px;
+            font-size: 25px;
           } 
+          h1 :hover{
+              font-size: 28px;
+          }
